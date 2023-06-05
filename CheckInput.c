@@ -61,3 +61,4 @@ uint8_t checkArrIsInteger(uint8_t arr[])
     return checkFlag;
 }
 
+
